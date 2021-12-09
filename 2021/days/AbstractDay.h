@@ -1,5 +1,5 @@
-#ifndef DAY_H_
-#define DAY_H_
+#ifndef ABSTRACTDAY_H_
+#define ABSTRACTDAY_H_
 
 #include <chrono>
 #include <string>
@@ -23,4 +23,4 @@ class AbstractDay {
         void loadResources();
 };
 
-#endif // DAY_H_
+#endif // ABSTRACTDAY_H_
