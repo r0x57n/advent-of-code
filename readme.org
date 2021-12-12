@@ -1,5 +1,5 @@
 * Advent of Code
 
-Where I keep my solutions for the annual [[https://adventofcode.com/2021/day/6][Advent of Code]].
+Where I keep my solutions for the annual [[https://adventofcode.com/][Advent of Code]].
 
 Beware of non-optimized and nasty solutions in some places due to time constraint.

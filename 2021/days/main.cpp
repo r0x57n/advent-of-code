@@ -6,9 +6,11 @@
 #include "day3.h"
 #include "day4.h"
 #include "day5.h"
+#include "day6.h"
+#include "day7.h"
 
 int main(int argc, char *argv[]) {
-    Day5<string> today("day5");
+    Day7<string> today("day7");
 
     today.run();
 
