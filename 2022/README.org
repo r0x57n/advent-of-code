@@ -1,0 +1,3 @@
+* Advent of Code 2022
+
+Learning rust while doing the yearly advent calendar.

@@ -1,0 +1,24 @@
+[package]
+    name = "Advent-of-Code"
+    version = "0.0.1"
+    authors = [ "rwn <rw@0x57.me>" ]
+
+[[bin]]
+name = "day1"
+path = "src/day1.rs"
+
+[[bin]]
+name = "day2"
+path = "src/day2.rs"
+
+[[bin]]
+name = "day3"
+path = "src/day3.rs"
+
+[[bin]]
+name = "day3_second"
+path = "src/day3_second.rs"
+
+[[bin]]
+name = "day4"
+path = "src/day4.rs"

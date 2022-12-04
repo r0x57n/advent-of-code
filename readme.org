@@ -2,4 +2,4 @@
 
 Where I keep my solutions for the annual [[https://adventofcode.com/][Advent of Code]].
 
-Beware of non-optimized and nasty solutions in some places due to time constraint.
+Beware of non-optimized and nasty solutions. :)
