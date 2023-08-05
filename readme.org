@@ -1,5 +1,3 @@
 * Advent of Code
 
-Where I keep my solutions for the annual [[https://adventofcode.com/][Advent of Code]].
-
-I usually quit after a week.
+Where I keep solutions for the annual [[https://adventofcode.com/][Advent of Code]].
